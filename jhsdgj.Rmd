@@ -1,0 +1,39 @@
+---
+title: "testing"
+author: ""
+date: ""
+output: flexdashboard::flex_dashboard
+editor_options: 
+  chunk_output_type: console
+---
+
+# Info
+
+![I am a photo](image_1.jpg){width="280" height="200"}
+
+![I am a photo](image_1.jpg){width="280" height="200"}
+
+![I am a photo](image_1.jpg){width="280" height="200"}
+
+![I am a photo](image_1.jpg){width="280" height="200"}
+
+![I am a photo](image_1.jpg){width="280" height="200"}
+
+![I am a photo](image_1.jpg){width="280" height="200"}
+
+##### Name:
+
+ISSA
+
+##### Birthdate:
+
+the problem
+
+# Other
+
+the problem is that
+
+# Program
+
+forfeit
+
